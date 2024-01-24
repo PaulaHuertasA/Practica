@@ -26,3 +26,22 @@ h2 {
 .albums{
     text-align: center;
 }
+.galeria-fotos{
+    display: flex;
+    justify-content: space-between;
+
+}
+.galeria{
+    background-color: rgb(153, 187, 189);
+    height: 40px;
+    padding:5px 5px
+}
+h3{
+    text-align: center;
+}
+.contacto{
+    background-color: rgb(153, 187, 189);
+    height: 40px;
+    padding:5px 5px
+}
+
