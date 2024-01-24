@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 2px;
+    padding:5px 10px
+}
+
+@media(max-width:1024px){
+    body{
+        background-color:gray;
+    }
+}
+h1{
+    text-align: center;
+    background-color: rgb(153, 187, 189);
+    height: 60px;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.Informacion-Personal{
+    text-align: center;
+}
+.redes-sociales {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(153, 187, 189);
+    height: 40px;
+    padding:5px 5px
+}
